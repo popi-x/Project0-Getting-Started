@@ -1,2 +1,3 @@
 build/
 Self-diagnosis/
+*.ncu-rep
